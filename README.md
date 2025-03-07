@@ -26,20 +26,6 @@ This project aims to detect fraudulent credit card transactions using machine le
   - Visualization: `Matplotlib`, `Seaborn`  
   - Machine Learning: `Scikit-learn`  
 
----
-
-## 🔍 Project Workflow
-```mermaid
-graph TD;
-    A[Data Collection] --> B[Data Preprocessing];
-    B --> C[Exploratory Data Analysis (EDA)];
-    C --> D[Model Building];
-    D --> E[Model Evaluation];
-    E --> F[Results & Comparison];
-```
-
----
-
 ## ⚙️ Methods and Approaches
 - **Data Preprocessing:**
   - Checked for missing values.
